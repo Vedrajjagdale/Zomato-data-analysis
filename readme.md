@@ -1,15 +1,15 @@
-#📊 Zomato Data Analysis
-#📌 Project Overview
+# 📊 Zomato Data Analysis
+# 📌 Project Overview
 
 This project analyzes Zomato restaurant data to extract meaningful insights about restaurant trends, customer preferences, pricing, and ratings. The goal is to transform raw data into actionable insights that can help businesses and customers make better decisions.
 
-#🎯 Objectives
+# 🎯 Objectives
 Understand restaurant distribution across locations
 Analyze ratings and factors affecting them
 Study pricing trends and affordability
 Identify popular cuisines and services
 Explore online delivery and table booking patterns
-#📂 Dataset
+# 📂 Dataset
 Source: Zomato Dataset (CSV format)
 Features include:
 Restaurant Name
@@ -27,12 +27,12 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
-#🔍 Data Preprocessing
+# 🔍 Data Preprocessing
 Removed missing and duplicate values
 Converted data types (e.g., cost, ratings)
 Cleaned inconsistent entries
 Filtered irrelevant columns
-#📈 Analysis Performed
+# 📈 Analysis Performed
 1. Restaurant Distribution
 Number of restaurants by city/location
 High-density food areas identified
@@ -49,14 +49,14 @@ Multi-cuisine trends
 5. Online Services
 Online delivery availability
 Table booking impact on ratings
-#📊 Key Insights
+# 📊 Key Insights
 Restaurants with higher votes tend to have better ratings
 Online delivery increases customer reach
 Certain cuisines dominate specific regions
 Mid-range pricing attracts more customers than high-end pricing
 
 
-#🚀 Future Improvements
+# 🚀 Future Improvements
 Add machine learning model to predict ratings
 Build interactive dashboard (Power BI / Streamlit)
 Perform sentiment analysis on reviews
@@ -83,22 +83,7 @@ zomato-data-analysis/
 ├── images/
 ├── README.md
 └── requirements.txt
-📌 Conclusion
+# 📌 Conclusion
 
 This project demonstrates how data analysis can uncover patterns in the restaurant industry and support better decision-making for businesses and consumers.
 
-📬 Contact
-Name: Vedraj Jagdale
-Email: (your email here)
-GitHub: (your profile link)
-Brutal feedback:
-
-If your project doesn’t include:
-
-clear problem statement
-insights backed by data
-some level of decision-making
-
-then this README is over-selling your work.
-
-If you want, send me your notebook or features—you’ll get a much sharper, recruiter-level README instead of this generic one.
