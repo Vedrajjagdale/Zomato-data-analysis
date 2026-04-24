@@ -1,15 +1,15 @@
-📊 Zomato Data Analysis
-📌 Project Overview
+#📊 Zomato Data Analysis
+#📌 Project Overview
 
 This project analyzes Zomato restaurant data to extract meaningful insights about restaurant trends, customer preferences, pricing, and ratings. The goal is to transform raw data into actionable insights that can help businesses and customers make better decisions.
 
-🎯 Objectives
+#🎯 Objectives
 Understand restaurant distribution across locations
 Analyze ratings and factors affecting them
 Study pricing trends and affordability
 Identify popular cuisines and services
 Explore online delivery and table booking patterns
-📂 Dataset
+#📂 Dataset
 Source: Zomato Dataset (CSV format)
 Features include:
 Restaurant Name
@@ -20,19 +20,19 @@ Ratings
 Votes
 Online Delivery
 Table Booking
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
-🔍 Data Preprocessing
+#🔍 Data Preprocessing
 Removed missing and duplicate values
 Converted data types (e.g., cost, ratings)
 Cleaned inconsistent entries
 Filtered irrelevant columns
-📈 Analysis Performed
+#📈 Analysis Performed
 1. Restaurant Distribution
 Number of restaurants by city/location
 High-density food areas identified
@@ -49,19 +49,14 @@ Multi-cuisine trends
 5. Online Services
 Online delivery availability
 Table booking impact on ratings
-📊 Key Insights
+#📊 Key Insights
 Restaurants with higher votes tend to have better ratings
 Online delivery increases customer reach
 Certain cuisines dominate specific regions
 Mid-range pricing attracts more customers than high-end pricing
 
-(If you didn’t actually prove these with data, remove or fix this section.)
 
-⚠️ Limitations
-Dataset may be outdated
-Missing values can affect accuracy
-Analysis limited to available features
-🚀 Future Improvements
+#🚀 Future Improvements
 Add machine learning model to predict ratings
 Build interactive dashboard (Power BI / Streamlit)
 Perform sentiment analysis on reviews
