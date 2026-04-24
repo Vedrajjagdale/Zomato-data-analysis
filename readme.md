@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook
-📁 Project Structure
+# 📁 Project Structure
 zomato-data-analysis/
 │
 ├── data/
@@ -83,7 +83,7 @@ zomato-data-analysis/
 ├── images/
 ├── README.md
 └── requirements.txt
-# 📌 Conclusion
 
+# 📌 Conclusion
 This project demonstrates how data analysis can uncover patterns in the restaurant industry and support better decision-making for businesses and consumers.
 
